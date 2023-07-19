@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PFCCore", "PFCCore", "{9B4E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PFC", "PFC\PFC.csproj", "{BBBF9E4E-578D-45C6-8E61-8EE9195566FA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plugin.DatabaseUploader", "Plugin.DatabaseUploader\Plugin.DatabaseUploader.csproj", "{8E9D50B3-B673-4782-9F1F-96F8736CA52E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BBBF9E4E-578D-45C6-8E61-8EE9195566FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBBF9E4E-578D-45C6-8E61-8EE9195566FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBBF9E4E-578D-45C6-8E61-8EE9195566FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9D50B3-B673-4782-9F1F-96F8736CA52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9D50B3-B673-4782-9F1F-96F8736CA52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9D50B3-B673-4782-9F1F-96F8736CA52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9D50B3-B673-4782-9F1F-96F8736CA52E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +68,7 @@ Global
 		{0D06178A-34BB-4546-9F54-FF6BEAD2988B} = {5236B9F1-A118-44FD-8ADF-A8B9D2BF63E4}
 		{B327AC29-6E06-4C1A-9F21-A73C66783EB2} = {4A2F6A40-F796-4DFB-B3B2-E7C9265E38BF}
 		{BBBF9E4E-578D-45C6-8E61-8EE9195566FA} = {9B4ED064-A2D0-4BAB-B45D-DADBE227B412}
+		{8E9D50B3-B673-4782-9F1F-96F8736CA52E} = {5236B9F1-A118-44FD-8ADF-A8B9D2BF63E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {43692F17-5125-47B1-BDA4-A8CB4840E208}
